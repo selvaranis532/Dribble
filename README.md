@@ -75,7 +75,7 @@ Publish the website in the LocalHost.
     </section>
     <section class="py-2 bg-dark">
         <div class="container">
-            <h2 class="text-light text-center mb-4">Our Featured Works</h2>
+            <h2 class="text-light text-center mb-4"> Featured Journey</h2>
             <div class="row g-4">
                 <div class="col-6 col-md-4 col-lg-4">
                     <img src="trav.1.jpg"class="img-fluid rounded" alt="travel 1" >
@@ -114,7 +114,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (47).png>)
+ ![alt text](<Screenshot (48).png>)          
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
